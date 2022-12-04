@@ -7,7 +7,6 @@ const quantityLabel = {
 	3: 'beaucoup'
 }
 
-
 function CareScale({scaleValue, careType}) {
     // const scaleValue = props.scaleValue
     const range = [1, 2, 3]
